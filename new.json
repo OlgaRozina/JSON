@@ -1,1 +1,12 @@
+{
+	"Person" :
+	{
+	"name" : "Olga",
+	"surname" : "Rozina",
+	"age" : 24,
+	"hobby" : "hiking",
+	"country" : "Lithuania",
+	"city" : "Vilnus"
+	}
 
+}
