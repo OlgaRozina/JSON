@@ -1,7 +1,9 @@
 {
-"prerences":
-{"eat":"pizza",
-"film": "Interstellar",
-"series": "Force_majeure",
-"time of year": "summer"}
+"Prefences":
+            {
+              "eat":"pizza",
+              "film": "Interstellar",
+              "series": "Force_majeure",
+              "time of year": "summer"
+            }
 }
