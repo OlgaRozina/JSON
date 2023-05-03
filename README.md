@@ -94,7 +94,7 @@ $ git commit preferences.json skills.json -m "First commit"
 $ git push
 ```
 ***
-## 13.On the web interface, create a file "bug_report.txt":
+## 13. On the web interface, create a file "bug_report.txt":
 ```
 Add file > Create new file
 ```
