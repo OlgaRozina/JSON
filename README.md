@@ -4,18 +4,18 @@
 GitHub > New repository > Create repository 
 ```
 ***
-## 2.Clone the JSON repository to a local machine: 
+## 2. Clone the JSON repository to a local machine: 
 ```
 $ git clone HTTPS
 ```
 ***
-## 3.Inside the local JSON create a “new.json” file": 
+## 3. Inside the local JSON create a “new.json” file": 
 ```
 $ cd JSOM
 $ touch new.json
 ```
 ***
-## 4.Add changes to indexed files section: 
+## 4. Add changes to indexed files section: 
 ```
 $ git add touch new.json
 ```
@@ -25,12 +25,12 @@ $ git add touch new.json
 $ git commit -m "First commit"
 ```
 ***
-## 6.Push the file to the external GitHub repository: 
+## 6. Push the file to the external GitHub repository: 
 ```
 $ git push
 ```
 ***
-## 7.Edit the content of the file “new.json” - write information about yourself. Everything is written in json format:
+## 7. Edit the content of the file “new.json” - write information about yourself. Everything is written in json format:
 ```
 $ vim new.json
 press i
@@ -99,7 +99,7 @@ $ git push
 Add file > Create new file
 ```
 ***
-## 14.Press "Commit changes", save changes on the web interface:
+## 14. Press "Commit changes", save changes on the web interface:
 ```
 > Commit new file
 ```
